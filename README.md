@@ -16,6 +16,7 @@ https://huggingface.co/gomgomcode/material_patent_roberta_simcse
 - 검색어 임베딩 후 faiss index 활용 L2 distance 작은 top_k 결과 출력
 
 # Config
+
 ---
 title: Patent Roberta Simcse Demo
 emoji: 🦀
