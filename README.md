@@ -1,3 +1,15 @@
+---
+title: Patent Roberta Simcse Demo
+emoji: 🦀
+colorFrom: purple
+colorTo: red
+sdk: gradio
+sdk_version: 4.19.1
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Demo
 https://huggingface.co/spaces/gomgomcode/patent_roberta_simcse_demo
 
@@ -14,17 +26,3 @@ https://huggingface.co/gomgomcode/material_patent_roberta_simcse
 - 특허데이터베이스 사전 embedding
 - faiss index 생성
 - 검색어 임베딩 후 faiss index 활용 L2 distance 작은 top_k 결과 출력
-
-# Config
-
----
-title: Patent Roberta Simcse Demo
-emoji: 🦀
-colorFrom: purple
-colorTo: red
-sdk: gradio
-sdk_version: 4.19.1
-app_file: app.py
-pinned: false
-license: mit
----
